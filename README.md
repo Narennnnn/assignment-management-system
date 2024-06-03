@@ -1,4 +1,3 @@
-cat > README.md <<EOF
 # Assignment Management System
 
 The Assignment Management System is a Flask-based web application designed to manage student assignments, allowing teachers to grade assignments and principals to oversee the process.
